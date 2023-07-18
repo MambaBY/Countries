@@ -2,7 +2,7 @@ import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
 
-public class Contries {
+public class Countries {
 
     static Map<String, String> countryMap = new HashMap<>(){
         {

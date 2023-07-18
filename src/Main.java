@@ -9,17 +9,17 @@
  */
 public class Main {
     public static void main(String[] args) {
-        Contries contries =new Contries();
-        contries.printAllKeys();
+        Countries countries =new Countries();
+        countries.printAllKeys();
 
         System.out.println();
-        contries.printAllValues();
+        countries.printAllValues();
 
         System.out.println();
-        contries.printCollectionEntries();
+        countries.printCollectionEntries();
 
         System.out.println();
-        contries.printCollectionEntriesKeyValue();
+        countries.printCollectionEntriesKeyValue();
 
 
 
